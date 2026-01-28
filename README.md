@@ -1,10 +1,4 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=FullStack+Developer;Minecraft+Plugin+Developer;Bot+Creator;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-@labydi__labudai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/labydi_labudai)
 [![Discord](https://img.shields.io/badge/Discord-.mikrovolnovka-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/556809834834690068)
