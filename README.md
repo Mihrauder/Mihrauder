@@ -33,11 +33,11 @@ const hans = {
 
 ---
 
-## Мой стек
+## Стек
 
 <div align="center">
 
-### 💻 Языки программирования
+### Яп
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -59,7 +59,7 @@ const hans = {
 
 ---
 
-## 📊 GitHub Статистика
+## Статистика
 
 <div align="center">
   
@@ -80,13 +80,13 @@ const hans = {
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Mihrauder&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Mihrauder&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Змейка
 
 <div align="center">
   
