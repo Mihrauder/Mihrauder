@@ -52,7 +52,6 @@ const hans = {
 ### ⚡ Специализация
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![JVM](https://img.shields.io/badge/JVM_Hacking-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
