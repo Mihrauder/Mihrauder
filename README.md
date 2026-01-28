@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=FullStack+Developer+%F0%9F%9A%80;Minecraft+Plugin+Developer+%E2%9B%8F;Bot+Creator+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=FullStack+Developer;Minecraft+Plugin+Developer;Bot+Creator;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -43,13 +43,19 @@ const hans = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### ⚡ Специализация
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Специализация
+![FullStack Dev](https://img.shields.io/badge/FullStack-FF6B6B?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
@@ -74,7 +80,7 @@ const hans = {
 
 ---
 
-## 🏆 GitHub Трофеи
+## GitHub Трофеи
 
 <div align="center">
   
@@ -97,14 +103,14 @@ const hans = {
 ## Проекты
 
 ```diff
-+ 🎮 Minecraft Server - Разработка кастомных плагинов на Java
-+ 🌐 Personal Website - Создание портфолио на Next.js
-+ 🤖 Telegram Bots - Автоматизация и боты на Python
++ Minecraft Server - Разработка кастомных плагинов на Java
++ Personal Website - Создание портфолио на Next.js
++ Telegram Bots - Автоматизация и боты на Python
 ```
 
 ---
 
-## Графф
+## График активности
 
 <div align="center">
   
@@ -116,7 +122,7 @@ const hans = {
 
 <div align="center">
 
-### Хуйня какая то
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
