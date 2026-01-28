@@ -15,6 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+### 🔥 Обо мне
 
 ```javascript
 const hans = {
@@ -32,24 +33,24 @@ const hans = {
 
 ---
 
-
+## 🛠️ Мой Технологический Арсенал
 
 <div align="center">
 
-
+### 💻 Языки программирования
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-
+### 🎨 Frontend
 !![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
+### ⚡ Специализация
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Telegram Bot](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![JVM](https://img.shields.io/badge/JVM_Hacking-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -58,7 +59,7 @@ const hans = {
 
 ---
 
-
+## 📊 GitHub Статистика
 
 <div align="center">
   
@@ -75,27 +76,27 @@ const hans = {
 
 ---
 
-
+## 🏆 GitHub Трофеи
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mihrauder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Mihrauder&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
 ---
 
-
+## 🐍 Contribution Snake
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Mihrauder/Mihrauder/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/Mihrauder/Mihrauder/output/github-snake-dark.svg)
 
 </div>
 
 ---
 
-
+## Проекты
 
 ```diff
 + 🎮 Minecraft Server - Разработка кастомных плагинов на Java
@@ -106,7 +107,7 @@ const hans = {
 
 ---
 
-
+## Графф
 
 <div align="center">
   
@@ -118,7 +119,7 @@ const hans = {
 
 <div align="center">
 
-
+### Хуйня какая то
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -128,6 +129,6 @@ const hans = {
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/Mihrauder/count.svg)
+![](https://komarev.com/ghpvc/?username=Mihrauder&color=blueviolet&style=for-the-badge)
 
 </div>
