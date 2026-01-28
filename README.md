@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-@labydi__labudai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/labydi_labudai)
-[![Discord](https://img.shields.io/badge/Discord-.mikrovolnovka-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-.mikrovolnovka-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/556809834834690068)
 
 </div>
 
