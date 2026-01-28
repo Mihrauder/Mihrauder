@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=FullStack+Developer+%F0%9F%9A%80;Minecraft+Plugin+Developer+%E2%9B%8F;Cheat+Developer+%F0%9F%94%A5;Bot+Creator+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=FullStack+Developer+%F0%9F%9A%80;Minecraft+Plugin+Developer+%E2%9B%8F;Cheat+Developer;Bot+Creator+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🔥 Обо мне
+### Обо мне
 
 ```javascript
 const hans = {
