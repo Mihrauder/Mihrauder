@@ -92,18 +92,6 @@ const hans = {
 
 </div>
 
----
-
-## Проекты
-
-```diff
-+ Minecraft Server - Разработка кастомных плагинов на Java
-+ Personal Website - Создание портфолио на Next.js
-+ Telegram Bots - Автоматизация и боты на Python
-```
-
----
-
 ## График активности
 
 <div align="center">
